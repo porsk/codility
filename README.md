@@ -19,3 +19,13 @@ My JavaScript solutions to exercises and tests at [Codility](https://codility.co
 - [**PermMissingElem**](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/) - Find the missing element in a given permutation ([permMissingElem.js](./03-time-complexity/permMissingElem.js)) ([Codility Report](https://app.codility.com/demo/results/trainingB498EH-6U9/))
 
 - [**TapeEquilibrium**](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/) - Minimize the value |(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])| ([tapeEquilibrium.js](./03-time-complexity/tapeEquilibrium.js)) ([Codility Report](https://app.codility.com/demo/results/trainingVUGJ4W-TRD/))
+
+## [Lesson 4 - Counting Elements](https://app.codility.com/programmers/lessons/4-counting_elements/)
+
+- [**FrogRiverOne**](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/) - Find the earliest time when a frog can jump to the other side of a river ([frogRiverOne.js](./04-counting-elements/frogRiverOne.js)) ([Codility Report](https://app.codility.com/demo/results/trainingCX3SCJ-7VM/))
+
+- [**MaxCounters**](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/) - Calculate the values of counters after applying all alternating operations: increase counter by 1; set value of all counters to current maximum ([maxCounters.js](./04-counting-elements/maxCounters.js)) ([Codility Report](https://app.codility.com/demo/results/training25V3A5-5PA/))
+
+- [**MissingInteger**](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/) - Find the smallest positive integer that does not occur in a given sequence ([missingInteger.js](./04-counting-elements/missingInteger.js)) ([Codility Report](https://app.codility.com/demo/results/trainingJNN86R-V67/))
+
+- [**PermCheck**](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/) - Check whether array A is a permutation ([permCheck.js](./04-counting-elements/permCheck.js)) ([Codility Report](https://app.codility.com/demo/results/training4PE5VF-PZH/))
