@@ -29,3 +29,13 @@ My JavaScript solutions to exercises and tests at [Codility](https://codility.co
 - [**MissingInteger**](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/) - Find the smallest positive integer that does not occur in a given sequence ([missingInteger.js](./04-counting-elements/missingInteger.js)) ([Codility Report](https://app.codility.com/demo/results/trainingJNN86R-V67/))
 
 - [**PermCheck**](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/) - Check whether array A is a permutation ([permCheck.js](./04-counting-elements/permCheck.js)) ([Codility Report](https://app.codility.com/demo/results/training4PE5VF-PZH/))
+
+## [Lesson 5 - Prefix Sums](https://app.codility.com/programmers/lessons/5-prefix_sums/)
+
+- [**CountDiv**](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/) - Compute number of integers divisible by k in range [a..b] ([countDiv.js](./05-prefix-sums/countDiv.js)) ([Codility Report](https://app.codility.com/demo/results/trainingHXC6ZT-6KF/))
+
+- [**GenomicRangeQuery**](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/) - Find the minimal nucleotide from a range of sequence DNA ([genomicRangeQuery.js](./05-prefix-sums/genomicRangeQuery.js)) ([Codility Report](https://app.codility.com/demo/results/trainingTGMMAN-FEN/))
+
+- [**MinAvgTwoSlice**](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/) - Find the minimal average of any slice containing at least two elements ([minAvgTwoSlice.js](./05-prefix-sums/minAvgTwoSlice.js)) ([Codility Report](https://app.codility.com/demo/results/training38EMWX-DRJ/))
+
+- [**PassingCars**](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/) - Count the number of passing cars on the road ([passingCars.js](./05-prefix-sums/passingCars.js)) ([Codility Report](https://app.codility.com/demo/results/trainingEV3WKJ-H2T/))
