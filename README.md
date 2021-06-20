@@ -49,3 +49,13 @@ My JavaScript solutions to exercises and tests at [Codility](https://codility.co
 - [**NumberOfDiscIntersections**](https://app.codility.com/programmers/lessons/6-sorting/number_of_disc_intersections/) - Compute the number of intersections in a sequence of discs ([numberOfDiscIntersections.js](./06-sorting/numberOfDiscIntersections.js)) ([Codility Report](https://app.codility.com/demo/results/trainingVHCHHU-EDP/))
 
 - [**Triangle**](https://app.codility.com/programmers/lessons/6-sorting/triangle/) - Determine whether a triangle can be built from a given set of edges ([triangle.js](./06-sorting/triangle.js)) ([Codility Report](https://app.codility.com/demo/results/training35MRMB-C9Q/))
+
+## [Lesson 7 - Stacks and Queues](https://app.codility.com/programmers/lessons/7-stacks_and_queues/)
+
+- [**Brackets**](https://app.codility.com/programmers/lessons/7-stacks_and_queues/brackets/) - Determine whether a given string of parentheses (multiple types) is properly nested ([brackets.js](./07-stacks-and-queues/brackets.js)) ([Codility Report](https://app.codility.com/demo/results/trainingRC3JDM-DZU/))
+
+- [**Fish**](https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/) - N voracious fish are moving along a river. Calculate how many fish are alive ([fish.js](./07-stacks-and-queues/fish.js)) ([Codility Report](https://app.codility.com/demo/results/training5PYZPV-R4D/))
+
+- [**Nesting**](https://app.codility.com/programmers/lessons/7-stacks_and_queues/nesting/) - Determine whether a given string of parentheses (single type) is properly nested ([nesting.js](./07-stacks-and-queues/nesting.js)) ([Codility Report](https://app.codility.com/demo/results/trainingSPCCTC-AUG/))
+
+- [**StoneWall**](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/) - Cover "Manhattan skyline" using the minimum number of rectangles ([stoneWall.js](./07-stacks-and-queues/stoneWall.js)) ([Codility Report](https://app.codility.com/demo/results/training6QQDU3-GW5/))
