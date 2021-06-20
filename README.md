@@ -39,3 +39,13 @@ My JavaScript solutions to exercises and tests at [Codility](https://codility.co
 - [**MinAvgTwoSlice**](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/) - Find the minimal average of any slice containing at least two elements ([minAvgTwoSlice.js](./05-prefix-sums/minAvgTwoSlice.js)) ([Codility Report](https://app.codility.com/demo/results/training38EMWX-DRJ/))
 
 - [**PassingCars**](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/) - Count the number of passing cars on the road ([passingCars.js](./05-prefix-sums/passingCars.js)) ([Codility Report](https://app.codility.com/demo/results/trainingEV3WKJ-H2T/))
+
+## [Lesson 6 - Sorting](https://app.codility.com/programmers/lessons/6-sorting/)
+
+- [**Distinct**](https://app.codility.com/programmers/lessons/6-sorting/distinct/) - Compute number of distinct values in an array ([distinct.js](./06-sorting/distinct.js)) ([Codility Report](https://app.codility.com/demo/results/trainingRVCWPK-9WS/))
+
+- [**MaxProductOfThree**](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/) - Maximize A[P] _ A[Q] _ A[R] for any triplet (P, Q, R) ([maxProductOfThree.js](./06-sorting/maxProductOfThree.js)) ([Codility Report](https://app.codility.com/demo/results/training8RUW3M-RGZ/))
+
+- [**NumberOfDiscIntersections**](https://app.codility.com/programmers/lessons/6-sorting/number_of_disc_intersections/) - Compute the number of intersections in a sequence of discs ([numberOfDiscIntersections.js](./06-sorting/numberOfDiscIntersections.js)) ([Codility Report](https://app.codility.com/demo/results/trainingVHCHHU-EDP/))
+
+- [**Triangle**](https://app.codility.com/programmers/lessons/6-sorting/triangle/) - Determine whether a triangle can be built from a given set of edges ([triangle.js](./06-sorting/triangle.js)) ([Codility Report](https://app.codility.com/demo/results/training35MRMB-C9Q/))
