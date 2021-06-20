@@ -59,3 +59,9 @@ My JavaScript solutions to exercises and tests at [Codility](https://codility.co
 - [**Nesting**](https://app.codility.com/programmers/lessons/7-stacks_and_queues/nesting/) - Determine whether a given string of parentheses (single type) is properly nested ([nesting.js](./07-stacks-and-queues/nesting.js)) ([Codility Report](https://app.codility.com/demo/results/trainingSPCCTC-AUG/))
 
 - [**StoneWall**](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/) - Cover "Manhattan skyline" using the minimum number of rectangles ([stoneWall.js](./07-stacks-and-queues/stoneWall.js)) ([Codility Report](https://app.codility.com/demo/results/training6QQDU3-GW5/))
+
+## [Lesson 8 - Leader](https://app.codility.com/programmers/lessons/8-leader/)
+
+- [**Dominator**](https://app.codility.com/programmers/lessons/8-leader/dominator/) - Find an index of an array such that its value occurs at more than half of indices in the array ([dominator.js](./08-leader/dominator.js)) ([Codility Report 1](https://app.codility.com/demo/results/trainingEQZT58-RM7/), [Codility Report 2](https://app.codility.com/demo/results/trainingP46Z4W-Q4J/))
+
+- [**EquiLeader**](https://app.codility.com/programmers/lessons/8-leader/equi_leader/) - Find the index S such that the leaders of the sequences A[0], A[1], ..., A[S] and A[S + 1], A[S + 2], ..., A[N - 1] are the same ([equiLeader.js](./08-leader/equiLeader.js)) ([Codility Report](https://app.codility.com/demo/results/trainingVU9AJW-G2R/))
