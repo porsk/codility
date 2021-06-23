@@ -73,3 +73,13 @@ My JavaScript solutions to exercises and tests at [Codility](https://codility.co
 - [**MaxProfit**](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/) - Given a log of stock prices compute the maximum possible earning ([maxProfit.js](./09-maximum-slice-problem/maxProfit.js)) ([Codility Report](https://app.codility.com/demo/results/training5FX399-H93/))
 
 - [**MaxSliceSum**](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_slice_sum/) - Find a maximum sum of a compact subsequence of array elements ([maxSliceSum.js](./09-maximum-slice-problem/maxSliceSum.js)) ([Codility Report](https://app.codility.com/demo/results/trainingZ4ER3E-CYD/))
+
+## [Lesson 10 - Prime and composite numbers](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/)
+
+- [**CountFactors**](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/) - Count factors of given number n ([countFactors.js](./10-prime-and-composite-numbers/countFactors.js)) ([Codility Report 1](https://app.codility.com/demo/results/trainingKEK6WX-WZZ/))
+
+- [**Flags**](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/flags/) - Find the maximum number of flags that can be set on mountain peaks ([flags.js](./10-prime-and-composite-numbers/flags.js)) ([Codility Report](https://app.codility.com/demo/results/trainingQY5ASN-NEM/))
+
+- [**MinPerimeterRectangle**](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/min_perimeter_rectangle/) - Find the minimal perimeter of any rectangle whose area equals N ([minPerimeterRectangle.js](./10-prime-and-composite-numbers/minPerimeterRectangle.js)) ([Codility Report](https://app.codility.com/demo/results/trainingK5FC5Y-FSA/))
+
+- [**Peaks**](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/peaks/) - Divide an array into the maximum number of same-sized blocks, each of which should contain an index P such that A[P - 1] < A[P] > A[P + 1] ([peaks.js](./10-prime-and-composite-numbers/peaks.js)) ([Codility Report](https://app.codility.com/demo/results/trainingS3PZWP-4CQ/))
