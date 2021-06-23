@@ -65,3 +65,11 @@ My JavaScript solutions to exercises and tests at [Codility](https://codility.co
 - [**Dominator**](https://app.codility.com/programmers/lessons/8-leader/dominator/) - Find an index of an array such that its value occurs at more than half of indices in the array ([dominator.js](./08-leader/dominator.js)) ([Codility Report 1](https://app.codility.com/demo/results/trainingEQZT58-RM7/), [Codility Report 2](https://app.codility.com/demo/results/trainingP46Z4W-Q4J/))
 
 - [**EquiLeader**](https://app.codility.com/programmers/lessons/8-leader/equi_leader/) - Find the index S such that the leaders of the sequences A[0], A[1], ..., A[S] and A[S + 1], A[S + 2], ..., A[N - 1] are the same ([equiLeader.js](./08-leader/equiLeader.js)) ([Codility Report](https://app.codility.com/demo/results/trainingVU9AJW-G2R/))
+
+## [Lesson 9 - Maximum slice problem](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/)
+
+- [**MaxDoubleSliceSum**](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_double_slice_sum/) - Find the maximal sum of any double slice ([maxDoubleSliceSum.js](./09-maximum-slice-problem/maxDoubleSliceSum.js)) ([Codility Report 1](https://app.codility.com/demo/results/trainingPTCD5K-5GX/))
+
+- [**MaxProfit**](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/) - Given a log of stock prices compute the maximum possible earning ([maxProfit.js](./09-maximum-slice-problem/maxProfit.js)) ([Codility Report](https://app.codility.com/demo/results/training5FX399-H93/))
+
+- [**MaxSliceSum**](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_slice_sum/) - Find a maximum sum of a compact subsequence of array elements ([maxSliceSum.js](./09-maximum-slice-problem/maxSliceSum.js)) ([Codility Report](https://app.codility.com/demo/results/trainingZ4ER3E-CYD/))
