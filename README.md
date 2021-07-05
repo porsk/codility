@@ -83,3 +83,9 @@ My JavaScript solutions to exercises and tests at [Codility](https://codility.co
 - [**MinPerimeterRectangle**](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/min_perimeter_rectangle/) - Find the minimal perimeter of any rectangle whose area equals N ([minPerimeterRectangle.js](./10-prime-and-composite-numbers/minPerimeterRectangle.js)) ([Codility Report](https://app.codility.com/demo/results/trainingK5FC5Y-FSA/))
 
 - [**Peaks**](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/peaks/) - Divide an array into the maximum number of same-sized blocks, each of which should contain an index P such that A[P - 1] < A[P] > A[P + 1] ([peaks.js](./10-prime-and-composite-numbers/peaks.js)) ([Codility Report](https://app.codility.com/demo/results/trainingS3PZWP-4CQ/))
+
+## [Lesson 11 - Sieve of Eratosthenes](https://app.codility.com/programmers/lessons/11-sieve_of_eratosthenes/)
+
+- [**CountNonDivisible**](https://app.codility.com/programmers/lessons/11-sieve_of_eratosthenes/count_non_divisible/) - Calculate the number of elements of an array that are not divisors of each element ([countNonDivisible.js](./11-sieve-of-eratosthenes/countNonDivisible.js)) ([Codility Report 1](https://app.codility.com/demo/results/trainingRN48QF-6A4/))
+
+- [**CountSemiprimes**](https://app.codility.com/programmers/lessons/11-sieve_of_eratosthenes/count_semiprimes/) - Count the semiprime numbers in the given range [a..b] ([countSemiprimes.js](./11-sieve-of-eratosthenes/countSemiprimes.js)) ([Codility Report](https://app.codility.com/demo/results/trainingA56PWM-9H8/))
