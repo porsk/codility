@@ -95,3 +95,9 @@ My JavaScript solutions to exercises and tests at [Codility](https://codility.co
 - [**ChocolatesByNumbers**](https://app.codility.com/programmers/lessons/12-euclidean_algorithm/chocolates_by_numbers/) - There are N chocolates in a circle. Count the number of chocolates you will eat ([chocolatesByNumbers.js](./12-euclidean-algorithm/chocolatesByNumbers.js)) ([Codility Report](https://app.codility.com/demo/results/trainingRPA9MC-A5B/))
 
 - [**CommonPrimeDivisors**](https://app.codility.com/programmers/lessons/12-euclidean_algorithm/common_prime_divisors/) - Check whether two numbers have the same prime divisors ([commonPrimeDivisors.js](./12-euclidean-algorithm/commonPrimeDivisors.js)) ([Codility Report](https://app.codility.com/demo/results/training5ZXKBE-WVE/))
+
+## [Lesson 13 - Fibonacci numbers](https://app.codility.com/programmers/lessons/13-fibonacci_numbers/)
+
+- [**FibFrog**](https://app.codility.com/programmers/lessons/13-fibonacci_numbers/fib_frog/) - Count the minimum number of jumps required for a frog to get to the other side of a river ([fibFrog.js](./13-fibonacci-numbers/fibFrog.js)) ([Codility Report](https://app.codility.com/demo/results/training6YVT26-UW7/))
+
+- [**Ladder**](https://app.codility.com/programmers/lessons/13-fibonacci_numbers/ladder/) - Count the number of different ways of climbing to the top of a ladder ([ladder.js](./13-fibonacci-numbers/ladder.js)) ([Codility Report](https://app.codility.com/demo/results/trainingJPMCQS-56C/))
