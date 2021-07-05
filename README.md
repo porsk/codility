@@ -68,7 +68,7 @@ My JavaScript solutions to exercises and tests at [Codility](https://codility.co
 
 ## [Lesson 9 - Maximum slice problem](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/)
 
-- [**MaxDoubleSliceSum**](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_double_slice_sum/) - Find the maximal sum of any double slice ([maxDoubleSliceSum.js](./09-maximum-slice-problem/maxDoubleSliceSum.js)) ([Codility Report 1](https://app.codility.com/demo/results/trainingPTCD5K-5GX/))
+- [**MaxDoubleSliceSum**](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_double_slice_sum/) - Find the maximal sum of any double slice ([maxDoubleSliceSum.js](./09-maximum-slice-problem/maxDoubleSliceSum.js)) ([Codility Report](https://app.codility.com/demo/results/trainingPTCD5K-5GX/))
 
 - [**MaxProfit**](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/) - Given a log of stock prices compute the maximum possible earning ([maxProfit.js](./09-maximum-slice-problem/maxProfit.js)) ([Codility Report](https://app.codility.com/demo/results/training5FX399-H93/))
 
@@ -76,7 +76,7 @@ My JavaScript solutions to exercises and tests at [Codility](https://codility.co
 
 ## [Lesson 10 - Prime and composite numbers](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/)
 
-- [**CountFactors**](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/) - Count factors of given number n ([countFactors.js](./10-prime-and-composite-numbers/countFactors.js)) ([Codility Report 1](https://app.codility.com/demo/results/trainingKEK6WX-WZZ/))
+- [**CountFactors**](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/) - Count factors of given number n ([countFactors.js](./10-prime-and-composite-numbers/countFactors.js)) ([Codility Report](https://app.codility.com/demo/results/trainingKEK6WX-WZZ/))
 
 - [**Flags**](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/flags/) - Find the maximum number of flags that can be set on mountain peaks ([flags.js](./10-prime-and-composite-numbers/flags.js)) ([Codility Report](https://app.codility.com/demo/results/trainingQY5ASN-NEM/))
 
@@ -86,6 +86,12 @@ My JavaScript solutions to exercises and tests at [Codility](https://codility.co
 
 ## [Lesson 11 - Sieve of Eratosthenes](https://app.codility.com/programmers/lessons/11-sieve_of_eratosthenes/)
 
-- [**CountNonDivisible**](https://app.codility.com/programmers/lessons/11-sieve_of_eratosthenes/count_non_divisible/) - Calculate the number of elements of an array that are not divisors of each element ([countNonDivisible.js](./11-sieve-of-eratosthenes/countNonDivisible.js)) ([Codility Report 1](https://app.codility.com/demo/results/trainingRN48QF-6A4/))
+- [**CountNonDivisible**](https://app.codility.com/programmers/lessons/11-sieve_of_eratosthenes/count_non_divisible/) - Calculate the number of elements of an array that are not divisors of each element ([countNonDivisible.js](./11-sieve-of-eratosthenes/countNonDivisible.js)) ([Codility Report](https://app.codility.com/demo/results/trainingRN48QF-6A4/))
 
 - [**CountSemiprimes**](https://app.codility.com/programmers/lessons/11-sieve_of_eratosthenes/count_semiprimes/) - Count the semiprime numbers in the given range [a..b] ([countSemiprimes.js](./11-sieve-of-eratosthenes/countSemiprimes.js)) ([Codility Report](https://app.codility.com/demo/results/trainingA56PWM-9H8/))
+
+## [Lesson 12 - Euclidean algorithm](https://app.codility.com/programmers/lessons/12-euclidean_algorithm/)
+
+- [**ChocolatesByNumbers**](https://app.codility.com/programmers/lessons/12-euclidean_algorithm/chocolates_by_numbers/) - There are N chocolates in a circle. Count the number of chocolates you will eat ([chocolatesByNumbers.js](./12-euclidean-algorithm/chocolatesByNumbers.js)) ([Codility Report](https://app.codility.com/demo/results/trainingRPA9MC-A5B/))
+
+- [**CommonPrimeDivisors**](https://app.codility.com/programmers/lessons/12-euclidean_algorithm/common_prime_divisors/) - Check whether two numbers have the same prime divisors ([commonPrimeDivisors.js](./12-euclidean-algorithm/commonPrimeDivisors.js)) ([Codility Report](https://app.codility.com/demo/results/training5ZXKBE-WVE/))

@@ -1,6 +1,6 @@
 ## [Lesson 10 - Prime and composite numbers](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/)
 
-- [**CountFactors**](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/) - Count factors of given number n ([countFactors.js](./countFactors.js)) ([Codility Report 1](https://app.codility.com/demo/results/trainingKEK6WX-WZZ/))
+- [**CountFactors**](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/) - Count factors of given number n ([countFactors.js](./countFactors.js)) ([Codility Report](https://app.codility.com/demo/results/trainingKEK6WX-WZZ/))
 
 - [**Flags**](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/flags/) - Find the maximum number of flags that can be set on mountain peaks ([flags.js](./flags.js)) ([Codility Report](https://app.codility.com/demo/results/trainingQY5ASN-NEM/))
 
