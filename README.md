@@ -117,3 +117,9 @@ My JavaScript solutions to exercises and tests at [Codility](https://codility.co
 - [**CountTriangles**](https://app.codility.com/programmers/lessons/15-caterpillar_method/count_triangles/) - Count the number of triangles that can be built from a given set of edges ([countTriangles.js](./15-caterpillar-method/countTriangles.js)) ([Codility Report](https://app.codility.com/demo/results/trainingT2UBNZ-C2M/))
 
 - [**MinAbsSumOfTwo**](https://app.codility.com/programmers/lessons/15-caterpillar_method/min_abs_sum_of_two/) - Find the minimal absolute value of a sum of two elements ([minAbsSumOfTwo.js](./15-caterpillar-method/minAbsSumOfTwo.js)) ([Codility Report 1](https://app.codility.com/demo/results/trainingFXTBPT-DD2/), [Codility Report 2](https://app.codility.com/demo/results/training8MTG89-QCJ/))
+
+## [Lesson 16 - Greedy algorithms](https://app.codility.com/programmers/lessons/16-greedy_algorithms/)
+
+- [**MaxNonoverlappingSegments**](https://app.codility.com/programmers/lessons/16-greedy_algorithms/max_nonoverlapping_segments/) - Find a maximal set of non-overlapping segments ([maxNonoverlappingSegments.js](./16-greedy-algorithms/maxNonoverlappingSegments.js)) ([Codility Report](https://app.codility.com/demo/results/trainingSUQDY4-6EN/))
+
+- [**TieRopes**](https://app.codility.com/programmers/lessons/16-greedy_algorithms/tie_ropes/) - Tie adjacent ropes to achieve the maximum number of ropes of length >= K ([tieRopes.js](./16-greedy-algorithms/tieRopes.js)) ([Codility Report](https://app.codility.com/demo/results/trainingS7GNTQ-FKX/))
