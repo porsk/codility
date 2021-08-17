@@ -107,3 +107,13 @@ My JavaScript solutions to exercises and tests at [Codility](https://codility.co
 - [**MinMaxDivision**](https://app.codility.com/programmers/lessons/14-binary_search_algorithm/min_max_division/) - Divide array A into K blocks and minimize the largest sum of any block ([minMaxDivision.js](./14-binary-search-algorithm/minMaxDivision.js)) ([Codility Report](https://app.codility.com/demo/results/training39EVKF-MBF/))
 
 - [**NailingPlanks**](https://app.codility.com/programmers/lessons/14-binary_search_algorithm/nailing_planks/) - Count the minimum number of nails that allow a series of planks to be nailed ([nailingPlanks.js](./14-binary-search-algorithm/nailingPlanks.js)) ([Codility Report](https://app.codility.com/demo/results/trainingHYT8TD-K88/))
+
+## [Lesson 15 - Caterpillar method](https://app.codility.com/programmers/lessons/15-caterpillar_method/)
+
+- [**AbsDistinct**](https://app.codility.com/programmers/lessons/15-caterpillar_method/abs_distinct/) - Compute number of distinct absolute values of sorted array elements ([absDistinct.js](./15-caterpillar-method/absDistinct.js)) ([Codility Report](https://app.codility.com/demo/results/training4AYVR8-GB3/))
+
+- [**CountDistinctSlices**](https://app.codility.com/programmers/lessons/15-caterpillar_method/count_distinct_slices/) - Count the number of distinct slices (containing only unique numbers) ([countDistinctSlices.js](./15-caterpillar-method/countDistinctSlices.js)) ([Codility Report](https://app.codility.com/demo/results/training5F6PB4-UC8/))
+
+- [**CountTriangles**](https://app.codility.com/programmers/lessons/15-caterpillar_method/count_triangles/) - Count the number of triangles that can be built from a given set of edges ([countTriangles.js](./15-caterpillar-method/countTriangles.js)) ([Codility Report](https://app.codility.com/demo/results/trainingT2UBNZ-C2M/))
+
+- [**MinAbsSumOfTwo**](https://app.codility.com/programmers/lessons/15-caterpillar_method/min_abs_sum_of_two/) - Find the minimal absolute value of a sum of two elements ([minAbsSumOfTwo.js](./15-caterpillar-method/minAbsSumOfTwo.js)) ([Codility Report 1](https://app.codility.com/demo/results/trainingFXTBPT-DD2/), [Codility Report 2](https://app.codility.com/demo/results/training8MTG89-QCJ/))
